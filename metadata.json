@@ -1,0 +1,7 @@
+{
+  "name": "AI Karaoke Host youtube",
+  "description": "A self-hosted style AI voice assistant for Karaoke queue management using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
